@@ -1,3 +1,6 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
 main {
   font-family: "Outfit", sans-serif;
   width: 98vw;
@@ -6,7 +9,6 @@ main {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: hsl(212, 45%, 89%);
 }
 
 .container {
